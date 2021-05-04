@@ -1,0 +1,14 @@
+pandas
+matplotlib
+ipympl
+tabula-py
+cbsodata
+scipy
+lxml
+beautifulsoup4
+html5lib
+PyPDF2
+xeus-python
+seaborn
+epyestim
+tqdm
