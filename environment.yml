@@ -5,7 +5,7 @@ dependencies:
   - ipykernel
   - pip
   - pandas
-  - pandas_profiling
+  - pandas-profiling
   - matplotlib
   - ipympl
   - tabula-py
