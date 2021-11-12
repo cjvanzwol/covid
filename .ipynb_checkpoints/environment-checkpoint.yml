@@ -17,6 +17,7 @@ dependencies:
   - xeus-python
   - seaborn
   - tqdm
+  - seir
   - pip:
     - cbsodata
     - epyestim

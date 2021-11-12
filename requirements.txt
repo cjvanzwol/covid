@@ -12,3 +12,4 @@ xeus-python
 seaborn
 epyestim
 tqdm
+seir
