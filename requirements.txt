@@ -8,8 +8,9 @@ lxml
 beautifulsoup4
 html5lib
 PyPDF2
-xeus-python
 seaborn
 epyestim
 tqdm
 seir
+covid-seird
+epintervene

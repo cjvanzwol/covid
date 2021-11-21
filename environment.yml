@@ -14,10 +14,11 @@ dependencies:
   - beautifulsoup4
   - html5lib
   - PyPDF2
-  - xeus-python
   - seaborn
   - tqdm
   - seir
   - pip:
     - cbsodata
     - epyestim
+    - covid-seird
+    - epintervene
