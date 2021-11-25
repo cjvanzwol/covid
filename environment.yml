@@ -20,5 +20,4 @@ dependencies:
   - pip:
     - cbsodata
     - epyestim
-    - covid-seird
     - epintervene

@@ -12,5 +12,4 @@ seaborn
 epyestim
 tqdm
 seir
-covid-seird
 epintervene
